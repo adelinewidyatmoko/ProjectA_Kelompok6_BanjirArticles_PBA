@@ -11,7 +11,7 @@ Repository ini berisi seluruh kode dan data untuk Project A mata kuliah Pengolah
 | Zeldano Shan Oeffie | 5026231118 | Data Preparation |
 | Khalila Shafarayhani Atletiko | 5026231167 | TF-IDF dan Vector |
 | Astrid Meilendra | 5026231183 | Tokenization dan Lemmatization |
-| Alisha Rafimalia | 5026231202 | POS Tag, N-grams |
+| Alisha Rafimalia | 5026231202 | POS Tag, NER, dan N-grams |
 
 ## Deskripsi Proyek
 

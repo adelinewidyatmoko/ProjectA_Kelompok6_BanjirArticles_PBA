@@ -43,6 +43,8 @@ ProjectA_Kelompok6_BanjirArticles_PBA/
 │
 └── README.md
 ```
+## Link Google Drive
+https://its.id/m/Drive-PBA-Kelompok-6 
 
 ## Penjelasan Notebook
 
